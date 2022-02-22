@@ -1,0 +1,271 @@
+
+.updiv{
+    display: flex;
+    justify-content: space-between;
+    width: 100vw;
+    height: 3.5rem;
+    
+    background-color: rgba(253,96,0,255)
+}
+.upinput{
+    width: 9%;
+    height: 2.2rem;
+    margin-top: .5%;
+    margin-left: 2%;
+}
+.upname{
+    margin-top: 10%;
+    color: white;
+    font-size: medium;
+    margin-bottom: 1%;
+    font-family: Arial;
+}
+.whiteline{
+    margin-top: 1%;
+    width: 100%;
+    height: .1rem;
+    background-color: white;
+}
+.iconsdiv{
+    display: flex;
+    justify-content: space-around
+}
+.divmenuline{
+    width: 18px;
+    height: 3px;
+    background-color: white;
+    margin: 3px 0;
+}
+.imgflag{
+    height: 1.5rem;
+    margin-top: 40%;
+    
+}
+.bodydiv{
+    display: flex;
+}
+.divmenu{
+    margin-left: 25%;
+    margin-right: 100%;
+    margin-top: 40%;
+}
+.imgfood{
+    width: 100%;
+}
+.Rtitel{
+    color:rgba(9,56,68,255);
+    
+    font-family: Arial;
+    text-align: center;
+}
+.Lbody{
+    width: 75%;
+}
+.Rbody{
+    width: 25%;
+    height: 100vh; 
+    border-left: 2px solid rgba(77, 77, 77, 0.281);
+}
+.grayline{
+    margin-top: 1%;
+    width: 100%;
+    height: .1rem;
+    background-color: gray;
+    opacity: 20%;
+}
+.imgshop{
+    margin-top: 15%;
+    margin-left: 40%;
+    width: 20%;
+    margin-bottom: 0%;
+}
+.secondaritexR{
+    color:rgba(9,56,68,255);
+    font-family: Arial;
+    font:bold;
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 3%;
+}
+.secondaritexRmessage{
+    color: gray;
+    opacity: 50%;
+    font-family: Arial;
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.asiatitel{
+    color:rgba(9,56,68,255);
+    font-family: Arial;
+    
+    margin-top: -3rem;
+    margin-left: 3%;
+}
+.imgicons{
+    width: 6rem;
+    height: 5rem;
+    margin-top: -4rem;
+    margin-right: 3%;
+}
+.lHead{
+    display: flex;
+    justify-content: space-between;
+}
+.containerestrellas{
+    width: 110%;
+}
+.estrella{
+    
+    color: rgba(253,96,0,255) ;
+    font-size: 1.4rem;
+}
+.estrellau{
+    color: gray;
+    font-size: 1.4rem;
+    opacity: 50%;
+}
+.divestrellas{
+    margin-left: 3%;
+    margin-top: -2%;
+}
+.estrellatext{
+    font-family: Arial;
+    color: rgba(253,96,0,255);
+    text-decoration-line: underline;
+}
+.botreview{
+    font-family: Arial;
+    font-size: 1rem;
+    opacity: 50%;
+    margin-left: 3%;
+    margin-top: 0%;
+    white-space: nowrap;
+}
+.vavbar{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 3.5rem;
+    margin-top: -1%;
+    background-color: rgba(248,245,242,255);
+    
+}
+.bottitel{
+    margin-top: 2%;
+    margin-left: 4%;
+    width: 90%;
+    height: 3.5rem;
+    background-color: rgba(248,245,242,255);
+}
+.bottiteltext{
+    color:rgba(9,56,68,255);
+    font-family: Arial;
+    font-size: larger;
+    padding-top: 1.6%;
+    margin-left: 3%;
+    
+}
+.card{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1%;
+    margin-left: 4%;
+    width: 90%;
+    height: 7.5rem;
+    border: 1px solid rgba(77, 77, 77, 0.281);;
+
+}
+.tesxfront{
+display: flex;
+}
+.bottiteltext2{
+    color:rgba(9,56,68,255);
+    font-family: Arial;
+    font-size: larger;
+    margin-top: 2%;
+    margin-left: 3%;
+}
+
+.info{
+    margin-top: 4%;
+    margin-left: .5%;
+    color: rgb(53, 152, 245);
+    font-family: Arial;
+    font-size: x-small;
+}
+.info2{
+    margin-top: 4.5%;
+    margin-left: .5%;
+    color: rgb(53, 152, 245);
+    font-family: Arial;
+    font-size: x-small;
+}
+.money{
+    margin-left: 3%;
+    color: rgba(253,96,0,255);
+    font-family: Arial;
+    font-size: large;
+    margin-top: -1%;
+}
+.buttonmas{
+    
+    width: 3rem;
+    height: 3rem;
+    font-size: 2rem;
+    background-color: white;
+    border: none;
+    border-left: 1px solid rgba(77, 77, 77, 0.281);
+    border-bottom: 1px solid rgba(77, 77, 77, 0.281);
+    color: rgb(75, 161, 241);
+}
+.optionsnavar{
+    margin-top: 2%;
+    color:rgba(9,56,68,255);
+    font-family: Arial;
+    font-size: small;
+    opacity: 60%;
+}
+.optionsnavar2{
+    margin-top: 1.5%;
+    color:rgba(9,56,68,255);
+    font-family: Arial;
+    font-size: x-large;
+    opacity: 70%;
+    margin-right: 2%;
+}
+.icone.lupa {
+    margin-top: 1.5%;
+    margin-left: 2%;
+    width: 15px;
+    height: 15px;
+    border: 3px solid rgba(9,56,68,255);;
+    border-radius: 50%;
+    position: relative;
+    opacity: 80%;
+  }
+  
+  .icone.lupa:after {
+    position: absolute;
+    width: 50%;
+    height: 4px;
+    background-color: rgba(9,56,68,255);;;
+    display: block;
+    content: "";
+    top: 50%;
+    left: 50%;
+    opacity: 80%;
+    transform: rotate(45deg);
+    transform-origin: -1px 14px;
+    
+  }
+  .optionsnavar:hover{
+    
+    border: 2px solid rgba(253,96,0,255);
+    color: white;
+    background-color: rgba(253,96,0,255);
+    border-radius: 25px;
+    opacity: 100%;
+    padding-top: .5%;
+    
+  }

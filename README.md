@@ -1,1 +1,0 @@
-# 2022_01_dev_lezama_vera_germanny_douglas
